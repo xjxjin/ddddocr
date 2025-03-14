@@ -35,7 +35,7 @@ def verify_token(f):
 # 初始化 OCR
 ocr = ddddocr.DdddOcr()
 
-@app.route('/ocr', methods=['POST'])
+@app.route('/fx_ocr', methods=['POST'])
 @verify_token
 def ocr_api():
     try:
