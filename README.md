@@ -1,6 +1,6 @@
 
 
-# DdddOcr 带带弟弟OCR通用验证码离线本地识别SDK免费开源版
+# DdddOcr 带带弟弟OCR通用验证码离线本地识别SDK免费开源版 
 
 DdddOcr，其由 [本作者](https://github.com/sml2h3) 与 [kerlomz](https://github.com/kerlomz) 共同合作完成，通过大批量生成随机数据后进行深度网络训练，本身并非针对任何一家验证码厂商而制作，本库使用效果完全靠玄学，可能可以识别，可能不能识别。
 
